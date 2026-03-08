@@ -25,3 +25,9 @@ This project presents an interactive sales dashboard built using Power BI to ana
 ## 📂 Dataset
 
 The dataset used in this project is the Superstore Sales dataset containing information about orders, sales, profit, customers, regions, and product categories.
+
+
+
+## 📷 Dashboard Preview
+
+![Dashboard](Screenshot (179).png)
