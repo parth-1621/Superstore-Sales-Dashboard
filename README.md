@@ -30,4 +30,4 @@ The dataset used in this project is the Superstore Sales dataset containing info
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Screenshot (179).png)
+![Dashboard](./Screenshot%20(179).png)
